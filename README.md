@@ -21,7 +21,7 @@ I'm José Eduardo Roppa, a motivated and dedicated computer science student curr
 
 ## 🔗 Contact
 
-- Email: [dudi.roppa@gmail.com](mailto:dudi.roppa@gmail.com)
+- Email: [je.croppa@gmail.com](mailto:je.croppa@gmail.com)
 - LinkedIn: [www.linkedin.com/in/jose-eduardo-roppa](http://www.linkedin.com/in/jose-eduardo-roppa)
 
 Feel free to reach out to me for any collaborations, projects or opportunities. Let's connect and build something great together!
